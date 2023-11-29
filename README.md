@@ -11,8 +11,13 @@
 <b>Supported devices :</b> Vest and arms and tactvisor
 
 <b>Manual installation</b></br>
-1) Download the zip file from [https://github.com/Astienth/AmidEvilVR_bHaptics/releases/download/0.1/AmidEvilVR_bHaptics.zip](https://github.com/Astienth/AmidEvilVR_bHaptics/releases/download/0.1/AmidEvilVR_bHaptics.zip)</br>
+1) Download the zip file from [https://github.com/Astienth/TWDSS_Retribution_bhaptics_protube/releases/download/1.0/TWDSS_Retribution_bhaptics_protube.zip](https://github.com/Astienth/TWDSS_Retribution_bhaptics_protube/releases/download/1.0/TWDSS_Retribution_bhaptics_protube.zip)</br>
 2) Extract its content into the game root folder, the folder containing the TWD.exe.</br>
-3) Launch bhaptic player and turn your devices on</br>
-4) Run **Amid_Bhaptics.bat**.</br>
+
+![Capture](https://github.com/Astienth/TWDSS_Retribution_bhaptics_protube/assets/11942434/9ef105ff-8f1a-4d8d-8158-a262630ee558)
+
+
+3) Launch bhaptic player and turn your devices on. Turn your protube device on</br>
+4) Run **TWD_Bhaptics.bat**.</br>
 5) Launch the game like you usually launch it
+
