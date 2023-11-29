@@ -23,3 +23,5 @@ Protube devices</br>
 4) Run **TWD_Bhaptics.bat**.</br>
 5) Launch the game like you usually launch it
 
+<b>THE GAME CAN TAKE A LONG TIME TO LAUNCH</b>
+
