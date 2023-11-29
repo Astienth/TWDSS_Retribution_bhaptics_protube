@@ -8,7 +8,9 @@
 
 ☕ If you wanna show some support you can buy me a coffee : https://www.buymeacoffee.com/astienth4
 
-<b>Supported devices :</b> Vest and arms and tactvisor
+<b>Supported devices :</b></br>
+bHaptics Vest and arms and tactvisor</br>
+Protube devices</br>
 
 <b>Manual installation</b></br>
 1) Download the zip file from [https://github.com/Astienth/TWDSS_Retribution_bhaptics_protube/releases/download/1.0/TWDSS_Retribution_bhaptics_protube.zip](https://github.com/Astienth/TWDSS_Retribution_bhaptics_protube/releases/download/1.0/TWDSS_Retribution_bhaptics_protube.zip)</br>
